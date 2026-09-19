@@ -1,0 +1,7 @@
+Ana;612345678;ana@gmail.com
+Carlos;623456789;carlos@gmail.com
+Laura;634567890;laura@gmail.com
+David;645678901;david@gmail.com
+Marta;656789012;marta@gmail.com
+Pablo;667890123;pablo@gmail.com
+Sara;678901234;sara@gmail.com
